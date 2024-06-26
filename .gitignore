@@ -1,3 +1,4 @@
 *.pyc
 *___pycache___./
 *.txt
+launch.json
